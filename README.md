@@ -1,1 +1,0 @@
-# sparkminds-spring-demo
